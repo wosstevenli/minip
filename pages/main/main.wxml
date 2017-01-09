@@ -1,2 +1,13 @@
 <!--pages/main/main.wxml-->
 <text>pages/main/main.wxml</text>
+<view class="dz">
+    <text class="title-1">段子</text>
+  </view>
+
+  <view class="meitu">
+      <text class="title-2">美图</text>
+    </view>
+
+  <view class="videp">
+    <text class="title-3">视频</text>
+  </view>
